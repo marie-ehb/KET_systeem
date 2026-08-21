@@ -1,0 +1,29 @@
+## Planning
+Theorie			2h
+- Theorie Git en software design
+
+Project Outline		2h
+- Creëren design en klassen
+
+(Ontwikkeling 9h)  
+Gebruikers		3h
+Bedrijven		3h	
+Menu en Output		3h
+- Nadruk op kwaliteit, structuur en documentatie
+
+Testing en Deployment	2h
+- Testen code; deployment via Git
+
+Totaal			15h
+
+
+## Rooster
+24/8	Theorie + Project Outline
+25/8	Gebruikers
+26/8	Bedrijven
+27/8	Menu en Output
+28/8	Testing en Deployment
+
+
+## Uitvoer
+21/8    Theorie + Project Outline
