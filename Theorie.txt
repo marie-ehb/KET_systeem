@@ -2,8 +2,8 @@
 Herhaling Git			v
 Herhaling Software Design	v
 Herhaling Documentatie		v
-Creëren Repository
-Eerste Commit
+Creëren Repository		v
+Eerste Commit			v
 
 ## GitHub Repository
 https://github.com/marie-ehb/KET_systeem
