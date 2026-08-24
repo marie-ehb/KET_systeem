@@ -1,0 +1,42 @@
+## TODO
+Creëren Design      v
+Uitwerken Klassen   v
+
+## Design
+Demonstration Based approach
+
+## Gebruikers
+Klasse Gebruikers
+Studenten, Docenten en Administratief Personeel erven over van Gebruikers
+
+Student
+- zoekt bedrijven voor stages
+- drukt lijst van bedrijven af
+Docent
+- zoekt bedrijven voor stages
+- zoekt bedrijven voor gastlessen
+- zoekt bedrijven voor lezen
+- drukt lijst van relevante gegevens af
+Administratief Personeel
+- vraagt gegevens op
+- update gegevens
+- voegt gegevens toe
+
+## Bedrijven
+Klasse Bedrijf
+
+Bedrijf
+- publieke gegevens
+- interne gegevens
+- contactpersoon
+- contactgegevens
+
+## Menu
+Klasse Keuzemenu
+
+Keuzemenu
+- Zoekt naargelang hoe je bent ingelogd
+- Uitloggen en afsluiten
+- Afdrukken zoekresultaten
+- Als admin optie krijgen om gegevens aan te passen
+- Als admin optie krijgen om gegevens te verwijderen
