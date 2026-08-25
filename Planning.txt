@@ -28,3 +28,4 @@ Totaal			15h
 ## Uitvoer
 21/8    Theorie    2h
 24/8    Project Outline    1h
+25/8    Planning    4h
