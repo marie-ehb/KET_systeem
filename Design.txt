@@ -15,7 +15,7 @@ Student
 Docent
 - zoekt bedrijven voor stages
 - zoekt bedrijven voor gastlessen
-- zoekt bedrijven voor lezen
+- zoekt bedrijven voor lezingen
 - drukt lijst van relevante gegevens af
 Administratief Personeel
 - vraagt gegevens op

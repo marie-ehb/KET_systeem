@@ -1,0 +1,39 @@
+## TODO
+Creëren Design              v
+Implementeren Gebruiker     v
+Implementeren Student       v
+Implementeren Docent        v
+Implementeren Administratief Personeel v
+Checken structuur           v
+Testen kwaliteit            v
+Creëren documentatie        v
+
+## Design 
+Student
+- ArrayList Bedrijven
+- methode voegt bedrijven toe
+- methode toString
+
+Docent
+- HashMap die bedrijf linkt aan stage, gastles of lezing
+- methode voegt bedrijven aan stage, gastles of lezing toe
+- methode toString
+
+Administratief Personeel
+- Tot nu toe leeg
+
+## Ontbrekend
+Administratief Personeel
+- gegevensOpvragen
+- gegevensUpdaten
+- gegevensToevoegen
+
+## Feedback 
+Student
+- Beperk voegBedrijfToe
+
+Docent
+- Beperk voegBedrijfToe
+
+## Bronnen
+https://stackoverflow.com/questions/5920135/printing-hashmap-in-java
