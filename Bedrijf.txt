@@ -1,0 +1,23 @@
+## TODO
+Creëren Design    v          
+Implementeren Bedrijf  v   
+Aanpassen Administratief Personeel v
+Checken structuur v          
+Testen kwaliteit  v          
+Creëren documentatie v        
+
+## Design 
+Bedrijf
+- publieke gegevens
+- interne gegevens
+
+Administratief Personeel 
+- gegevensOpvragen
+- gegevensUpdaten
+- gegevensToevoegen
+
+## Ontbrekend
+Administratief Personeel
+- gegevensOpvragen
+- gegevensUpdaten
+- gegevensToevoegen
