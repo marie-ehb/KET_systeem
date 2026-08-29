@@ -21,8 +21,8 @@ Totaal			15h
 24/8	Theorie + Project Outline
 25/8	Gebruikers
 26/8	Bedrijven
-27/8	Menu en Output
-28/8	Testing en Deployment
+28/8	Menu en Output
+31/8	Testing en Deployment
 
 
 ## Uitvoer
@@ -30,3 +30,4 @@ Totaal			15h
 24/8    Project Outline    1h
 25/8    Gebruikers  4h
 26/8	Bedrijven	3h
+28/8    Menu        6h

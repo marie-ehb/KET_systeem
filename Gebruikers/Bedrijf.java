@@ -1,9 +1,19 @@
+package Gebruikers;
 /**
 * @author Marie Scraeyen
 * @version 1.0
 */
 public class Bedrijf {
     private String contactpersoon, email, telefoonNummer, adres, omschrijving;
+
+    public Bedrijf(String contactpersoon, String email, String telefoonNummer, String adres, String omschrijving)
+    {
+        this.contactpersoon = contactpersoon;
+        this.email = email;
+        this.telefoonNummer = telefoonNummer;
+        this.adres = adres;
+        this.omschrijving = omschrijving;
+    }
 
     public void setContactpersoon(String contactpersoon){ this.contactpersoon = contactpersoon;}
     public String getContactpersoon(){ return this.contactpersoon; }

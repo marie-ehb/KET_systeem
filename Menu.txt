@@ -1,0 +1,19 @@
+## TODO
+Creëren Design v              
+Aanpassen Administratief Personeel v 
+Implementeren Menu v
+Checken structuur v          
+Testen kwaliteit v           
+Creëren documentatie v 
+
+## Design 
+Keuzemenu
+- inloggen
+- Zoekt naargelang hoe je bent ingelogd
+- Uitloggen en afsluiten
+- Afdrukken zoekresultaten
+- Als admin optie krijgen om gegevens aan te passen
+- Als admin optie krijgen om gegevens te verwijderen
+
+## Bronnen 
+https://www.baeldung.com/java-clear-console-screen
