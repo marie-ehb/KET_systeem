@@ -5,6 +5,7 @@ import Systeem.Administratie;
 import Systeem.Docent;
 import Systeem.Registratie;
 import Systeem.Student;
+import Systeem.Bedrijf;
 /**
 * @author Marie Scraeyen
 * @version 1.0
@@ -70,6 +71,45 @@ public class Menu {
             output.write(Registratie.getZoekResultaten().toString());
         } catch (IOException e) {
             throw new RuntimeException(e);
+        }
+    }
+
+    public void maakAdmin()
+    {
+        if (Registratie.isIngelogd()) {
+            Registratie.maakAdmin();
+        } else {
+            throw new Error("Niet ingelogd.");
+        }
+    }
+
+    /**
+    * @param bedrijf Een gegeven bedrijf
+    * @param categorie De categorie gegevens die je wil updaten
+    * @param data De data die je wil invoeren in de gegevens
+    */
+    public void gegevensUpdaten(Bedrijf bedrijf, String categorie, String data)
+    {
+        if (Registratie.isIngelogd() && Registratie.isAdmin()) {
+        switch (categorie) {
+            case "contactpersoon":
+                bedrijf.setContactpersoon(data);
+                break;
+            case "email":
+                bedrijf.setEmail(data);
+                break;
+            case "adres":
+                bedrijf.setAdres(data);
+                break;
+            case "omschrijving":
+                bedrijf.setOmschrijving(data);
+                break;
+                                                    
+            default:
+                throw new Error("Geen geldige categorie! Voer opnieuw in.");
+        }            
+        } else {
+            throw new Error("Geen geldige rechten.");
         }
     }
 
