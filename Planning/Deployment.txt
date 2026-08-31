@@ -1,0 +1,20 @@
+## TODO
+Controle Gebruiker v
+Controle Student v      
+Controle Docent v
+Controle Administratie v
+Controle Bedrijf v 
+Controle Menu v
+Controle Registratie v
+Creëren Output v
+Creëren Exception Handling v
+Checklist Documentatie (3/3)
+Checklist Structuur (1.5/1.5)
+Checklist Naamgeving (1.5/1.5)
+Checklist Design (1/2)
+Checklist Kwaliteit (3/5)
+Checklist Git (2/2)
+Checklist Planning (5/5)
+Update Readme v
+
+

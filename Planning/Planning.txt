@@ -31,3 +31,4 @@ Totaal			15h
 25/8    Gebruikers  4h
 26/8	Bedrijven	3h
 28/8    Menu        6h
+31/8    Deployment 4h

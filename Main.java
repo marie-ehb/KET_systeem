@@ -3,8 +3,8 @@
 * @version 1.0
 */
 
-import Gebruikers.Docent;
-import Gebruikers.Student;
+import Systeem.Docent;
+import Systeem.Student;
 
 public class Main {
     public static void main(String[] args) {
